@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excellerente", "excellerente\excellerente.csproj", "{96338B0F-D92C-4999-AD85-0E215E51A353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96338B0F-D92C-4999-AD85-0E215E51A353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96338B0F-D92C-4999-AD85-0E215E51A353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96338B0F-D92C-4999-AD85-0E215E51A353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96338B0F-D92C-4999-AD85-0E215E51A353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809F0586-EA13-4418-B3BB-C57F338F3868}
+	EndGlobalSection
+EndGlobal
